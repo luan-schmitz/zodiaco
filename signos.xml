@@ -4,11 +4,6 @@
         <dataInicio>21/03</dataInicio>
         <dataFim>20/04</dataFim>
         <nome>Áries</nome>
-        <caracteristicas>
-            <caracteristica>Corajoso</caracteristica>
-            <caracteristica>Impulsivo</caracteristica>
-            <caracteristica>Competitivo</caracteristica>
-        </caracteristicas>
         <elemento>Fogo</elemento>
         <planetaRegente>Marte</planetaRegente>
     </signo>
@@ -16,11 +11,6 @@
         <dataInicio>21/04</dataInicio>
         <dataFim>20/05</dataFim>
         <nome>Touro</nome>
-        <caracteristicas>
-            <caracteristica>Persistente</caracteristica>
-            <caracteristica>Prático</caracteristica>
-            <caracteristica>Confiável</caracteristica>
-        </caracteristicas>
         <elemento>Terra</elemento>
         <planetaRegente>Vênus</planetaRegente>
     </signo>
@@ -28,11 +18,6 @@
         <dataInicio>21/05</dataInicio>
         <dataFim>20/06</dataFim>
         <nome>Gêmeos</nome>
-        <caracteristicas>
-            <caracteristica>Adaptável</caracteristica>
-            <caracteristica>Comunicativo</caracteristica>
-            <caracteristica>Inteligente</caracteristica>
-        </caracteristicas>
         <elemento>Ar</elemento>
         <planetaRegente>Mercúrio</planetaRegente>
     </signo>
@@ -40,11 +25,6 @@
         <dataInicio>21/06</dataInicio>
         <dataFim>22/07</dataFim>
         <nome>Câncer</nome>
-        <caracteristicas>
-            <caracteristica>Emocional</caracteristica>
-            <caracteristica>Protetor</caracteristica>
-            <caracteristica>Intuitivo</caracteristica>
-        </caracteristicas>
         <elemento>Água</elemento>
         <planetaRegente>Lua</planetaRegente>
     </signo>
@@ -52,11 +32,6 @@
         <dataInicio>23/07</dataInicio>
         <dataFim>22/08</dataFim>
         <nome>Leão</nome>
-        <caracteristicas>
-            <caracteristica>Generoso</caracteristica>
-            <caracteristica>Confiante</caracteristica>
-            <caracteristica>Líder</caracteristica>
-        </caracteristicas>
         <elemento>Fogo</elemento>
         <planetaRegente>Sol</planetaRegente>
     </signo>
@@ -64,11 +39,6 @@
         <dataInicio>23/08</dataInicio>
         <dataFim>22/09</dataFim>
         <nome>Virgem</nome>
-        <caracteristicas>
-            <caracteristica>Analítico</caracteristica>
-            <caracteristica>Prático</caracteristica>
-            <caracteristica>Detalhista</caracteristica>
-        </caracteristicas>
         <elemento>Terra</elemento>
         <planetaRegente>Mercúrio</planetaRegente>
     </signo>
@@ -76,11 +46,6 @@
         <dataInicio>23/09</dataInicio>
         <dataFim>22/10</dataFim>
         <nome>Libra</nome>
-        <caracteristicas>
-            <caracteristica>Diplomático</caracteristica>
-            <caracteristica>Justo</caracteristica>
-            <caracteristica>Charmoso</caracteristica>
-        </caracteristicas>
         <elemento>Ar</elemento>
         <planetaRegente>Vênus</planetaRegente>
     </signo>
@@ -88,11 +53,6 @@
         <dataInicio>23/10</dataInicio>
         <dataFim>21/11</dataFim>
         <nome>Escorpião</nome>
-        <caracteristicas>
-            <caracteristica>Intenso</caracteristica>
-            <caracteristica>Paixão</caracteristica>
-            <caracteristica>Misterioso</caracteristica>
-        </caracteristicas>
         <elemento>Água</elemento>
         <planetaRegente>Plutão</planetaRegente>
     </signo>
@@ -100,11 +60,6 @@
         <dataInicio>22/11</dataInicio>
         <dataFim>21/12</dataFim>
         <nome>Sagitário</nome>
-        <caracteristicas>
-            <caracteristica>Aventureiro</caracteristica>
-            <caracteristica>Otimista</caracteristica>
-            <caracteristica>Filosófico</caracteristica>
-        </caracteristicas>
         <elemento>Fogo</elemento>
         <planetaRegente>Júpiter</planetaRegente>
     </signo>
@@ -112,11 +67,6 @@
         <dataInicio>22/12</dataInicio>
         <dataFim>19/01</dataFim>
         <nome>Capricórnio</nome>
-        <caracteristicas>
-            <caracteristica>Ambicioso</caracteristica>
-            <caracteristica>Prático</caracteristica>
-            <caracteristica>Responsável</caracteristica>
-        </caracteristicas>
         <elemento>Terra</elemento>
         <planetaRegente>Saturno</planetaRegente>
     </signo>
@@ -124,11 +74,6 @@
         <dataInicio>20/01</dataInicio>
         <dataFim>18/02</dataFim>
         <nome>Aquário</nome>
-        <caracteristicas>
-            <caracteristica>Inovador</caracteristica>
-            <caracteristica>Independente</caracteristica>
-            <caracteristica>Humanitário</caracteristica>
-        </caracteristicas>
         <elemento>Ar</elemento>
         <planetaRegente>Urano</planetaRegente>
     </signo>
@@ -136,11 +81,6 @@
         <dataInicio>19/02</dataInicio>
         <dataFim>20/03</dataFim>
         <nome>Peixes</nome>
-        <caracteristicas>
-            <caracteristica>Sonhador</caracteristica>
-            <caracteristica>Intuitivo</caracteristica>
-            <caracteristica>Empático</caracteristica>
-        </caracteristicas>
         <elemento>Água</elemento>
         <planetaRegente>Netuno</planetaRegente>
     </signo>
